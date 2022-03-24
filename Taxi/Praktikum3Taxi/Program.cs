@@ -10,7 +10,7 @@ namespace Praktikum3Taxi
     {
         static void Main(string[] args)
         {
-            //membuat objek taxi
+            //membuat objek taxi // 
             Taxi taxi = new Taxi();
 
             // pengisian nilai properties
@@ -18,7 +18,7 @@ namespace Praktikum3Taxi
             taxi.OnDuty = true;
             taxi.NumPassenger = 10;
 
-            //pemanggilan method
+            //pemanggilan methodd
 
             taxi.TaxiInfo();
             taxi.PickUpPassanger();

@@ -12,8 +12,8 @@ namespace Praktikum3Taxi
         public string DriverName { get; set; }
         public bool OnDuty { get; set; }
         public int NumPassenger { get; set; }
-        
-        
+
+        // PROPERTIES //
         public void TaxiInfo() //METHOD
         {
             Console.WriteLine("Driver Information\n");
