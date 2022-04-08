@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace latihanOverloadingMethod
 {
     class Program 
-    {
+    {//tes
         static void Main(string[] args)
         {
             Numbers number = new Numbers();

@@ -1,0 +1,15 @@
+G:\ogi\zulfa\Pemrog_21.11.4436\LatihanOverloadingMethod\latihanOverloadingMethod\bin\Debug\net6.0\latihanOverloadingMethod.exe
+G:\ogi\zulfa\Pemrog_21.11.4436\LatihanOverloadingMethod\latihanOverloadingMethod\bin\Debug\net6.0\latihanOverloadingMethod.deps.json
+G:\ogi\zulfa\Pemrog_21.11.4436\LatihanOverloadingMethod\latihanOverloadingMethod\bin\Debug\net6.0\latihanOverloadingMethod.runtimeconfig.json
+G:\ogi\zulfa\Pemrog_21.11.4436\LatihanOverloadingMethod\latihanOverloadingMethod\bin\Debug\net6.0\latihanOverloadingMethod.dll
+G:\ogi\zulfa\Pemrog_21.11.4436\LatihanOverloadingMethod\latihanOverloadingMethod\bin\Debug\net6.0\latihanOverloadingMethod.pdb
+G:\ogi\zulfa\Pemrog_21.11.4436\LatihanOverloadingMethod\latihanOverloadingMethod\obj\Debug\net6.0\latihanOverloadingMethod.csproj.AssemblyReference.cache
+G:\ogi\zulfa\Pemrog_21.11.4436\LatihanOverloadingMethod\latihanOverloadingMethod\obj\Debug\net6.0\latihanOverloadingMethod.GeneratedMSBuildEditorConfig.editorconfig
+G:\ogi\zulfa\Pemrog_21.11.4436\LatihanOverloadingMethod\latihanOverloadingMethod\obj\Debug\net6.0\latihanOverloadingMethod.AssemblyInfoInputs.cache
+G:\ogi\zulfa\Pemrog_21.11.4436\LatihanOverloadingMethod\latihanOverloadingMethod\obj\Debug\net6.0\latihanOverloadingMethod.AssemblyInfo.cs
+G:\ogi\zulfa\Pemrog_21.11.4436\LatihanOverloadingMethod\latihanOverloadingMethod\obj\Debug\net6.0\latihanOverloadingMethod.csproj.CoreCompileInputs.cache
+G:\ogi\zulfa\Pemrog_21.11.4436\LatihanOverloadingMethod\latihanOverloadingMethod\obj\Debug\net6.0\latihanOverloadingMethod.dll
+G:\ogi\zulfa\Pemrog_21.11.4436\LatihanOverloadingMethod\latihanOverloadingMethod\obj\Debug\net6.0\refint\latihanOverloadingMethod.dll
+G:\ogi\zulfa\Pemrog_21.11.4436\LatihanOverloadingMethod\latihanOverloadingMethod\obj\Debug\net6.0\latihanOverloadingMethod.pdb
+G:\ogi\zulfa\Pemrog_21.11.4436\LatihanOverloadingMethod\latihanOverloadingMethod\obj\Debug\net6.0\latihanOverloadingMethod.genruntimeconfig.cache
+G:\ogi\zulfa\Pemrog_21.11.4436\LatihanOverloadingMethod\latihanOverloadingMethod\obj\Debug\net6.0\ref\latihanOverloadingMethod.dll
